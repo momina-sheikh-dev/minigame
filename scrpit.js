@@ -39,5 +39,5 @@ window.onclick = function(event) {
 
 // Function to navigate back to the landing page
 function goBack() {
-  window.location.href = 'landing page.html'; // Replace 'index.html' with the path to your landing page
+  window.location.href = 'index.html'; // Replace 'index.html' with the path to your landing page
 }
