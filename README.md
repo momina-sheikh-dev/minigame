@@ -1,6 +1,6 @@
-# Rock, Paper, Scissors Game 🪨 📄 ✂️
+# Rock, Paper, Scissors Game 📄 ✂️
 
-visit the game:  [https://momina-sheikh-dev.github.io/minigame/](https://momina-sheikh-dev.github.io/minigame/)
+Visit the game:  [https://momina-sheikh-dev.github.io/minigame/](https://momina-sheikh-dev.github.io/minigame/)
 
 Welcome to the Rock, Paper, Scissors game! This is a simple command-line game where you can play against the computer.
 
