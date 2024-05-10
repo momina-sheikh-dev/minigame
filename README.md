@@ -12,7 +12,7 @@ Welcome to the Rock, Paper, Scissors game! This is a simple command-line game wh
    - Rock ✊ beats Scissors ✌️
    - Scissors ✌️ beats Paper 📄
    - Paper 📄 beats Rock ✊
-4. Enjoy playing the game and see if you can beat the computer! 🎉
+4. Enjoy playing the game and see if you can beat the computer! 
 
 ## Requirements 📋
 
